@@ -1,1 +1,3 @@
-Hellow World!!! Yo
+Hellow World!!!
+take input from user
+add the values
